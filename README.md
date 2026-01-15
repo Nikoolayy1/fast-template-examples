@@ -19,3 +19,8 @@ Use the API endpoint /mgmt/shared/fast/applications to POST this on F5.
       "server_addresses": ["10.10.10.1"]
    }
 }
+
+
+Another way is Visual Studio F5 Extension.
+
+<img width="1408" height="936" alt="image" src="https://github.com/user-attachments/assets/3d2c64ae-ed50-47d1-ae37-4881037d1652" />
